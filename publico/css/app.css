@@ -1,0 +1,436 @@
+#tudo {
+	margin:0% 2%;
+	width:100%;
+}
+
+#imagemlogo{
+	width:50%;
+	justify-content:flex-start;
+}
+
+#topo {
+	position:fixed;
+	background-color:white;
+	display: flex;
+	width:101%;
+	height:15%;
+	justify-content: space-around;
+	margin-top:-1%;
+	margin-left: -2.5%;
+}
+
+#inicio {
+	display:flex;
+	flex-direction:row;
+	flex-wrap:nowrap;
+        align-items: center;
+	margin-left:2%;
+	margin-right: 2%;
+	width:101%;
+        height: 100px;	
+}
+
+#icons {
+	display:flex;
+	flex-direction:row;
+        align-items: center;
+	flex-wrap:nowrap;
+	width:50%;
+	justify-content:flex-end;
+}
+
+#menu ul li {
+	display: inline;
+}
+
+#menu ul li a {
+			
+	display: inline;
+	text-decoration: none;
+	color: #999999;
+}
+
+#menus {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	align-items: center;
+	background-color: black;
+	width: 108%;
+	height: 60px;	
+	font-size: 20px;
+	color: white;
+	margin-top:-1%;
+	margin-left: -6%;
+	position:fixed;
+		
+}
+
+#menu2 ul li {
+	display: inline;
+}
+
+#menu2 ul li a {		
+	display: inline;
+	text-decoration: none;
+        color: grey;
+}
+
+#menus2 {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	align-items: center;
+	background-color: white;
+	width: 75%;
+	height: 60px;	
+	font-size: 20px;
+	color: white;
+	margin-top:5%;
+	margin-left: 10%;
+        border-bottom: solid;
+        border-bottom-color: grey;
+}
+
+#lista {
+	margin-left:6%;
+}
+
+#lista1{
+	margin-left:20%;
+}
+
+#rodape {
+	display:flex;
+	background-color:black;
+	width:108%;
+	margin-left: -3%;
+	margin-top: 1%;
+	height: 30%;
+	flex-direction:row;
+	justify-content:space-around;
+	justify-content:center;
+	flex-wrap:nowrap;
+	color:white;
+        margin-top: 20%;
+}
+
+
+#slide {
+	width:100%;
+	margin-top: -6%;
+}
+#destaqim {
+        margin-top: 5%;
+}
+
+#destaque {
+	font-family: courier new;
+	width: 10%;
+	margin-left: 40%;
+	margin-top: 1%;
+	text-align: center;
+}
+
+#p1 {
+	font-family: courier new;
+	margin-left: 50%;
+	margin-top: -2.6%;
+	font-size: 18px;
+}
+
+#paragraf1 {
+	color: black;
+        
+}
+
+#parteim2 {
+	border: solid;
+	width: 20%;
+}
+
+#parteim {
+	border-bottom: solid 6px;
+	border-top: solid 6px;
+	width: 100%;
+}
+
+#roupa1 {
+        margin-top:4%;
+}
+
+#r3 {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;
+	background-color: white;
+	width: 80%;
+	margin-left: 10%;
+	padding-bottom: 5%;
+        text-decoration: none;
+}
+
+#escritacompra {
+	border: 1px solid white;
+	width: 100%;
+        color: black;
+}
+
+.link-produto{
+    text-decoration: none;
+    color: black;
+}
+
+#compre {
+	padding-left: 2%;
+	margin-top: 2%;
+}
+
+#botaoimg {
+	margin-top: -46%;
+	margin-left: 61%;
+}
+
+
+#marcanova {
+	border-top: solid 4px black;
+	border-bottom: solid 4px black;
+	width: 17%;
+	margin-left: 43%;
+	margin-top: -20%;
+}
+
+#botao {
+	font-family: courier new;
+	background-color: black;
+	border-radius: 50px;
+	border-width: 01%;
+	border:grey solid 2px;
+	width: 12%;
+	height: 60px;
+	margin-left: 45%;
+	text-align: center;
+	color: white;
+	font-size: 20px;
+        margin-top:10%;
+}
+
+#divbotao {
+	margin-top: 6%;
+}
+
+
+#divforms {
+	margin-top:8%;
+	width: 102%;
+	margin-left: -1%;
+	height: 245px;
+	background-color: black;
+}
+
+.iconsforms {
+	width: 60px;
+	
+}
+
+#telimg {
+	width: 45px;
+}
+
+#telefone {
+	color: white;
+	text-align: center;
+	width: 36%;
+	padding-top: 2%;
+}
+
+#pague {
+	color: white;
+	text-align: center;
+	width: 40%;
+	height: 190px;
+	margin-left: 30%;
+	margin-top: -9%;
+}
+
+#contato {
+	color: white;
+	text-align: center;
+	width: 42%;
+	margin-left: 60%;
+	margin-top: -200px;
+}
+
+
+.hforms {
+	font-family: courier new;
+}
+
+#penult {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	align-items: center;
+	background-color: white;
+	width: 90%;
+	margin-top: -1%;
+	margin-right: 2%;
+	margin-left: 3.3%;
+}
+
+.penultimg {
+	width: 520px;
+	height: 900px;
+}
+
+.bot {
+    font-family: courier new;
+    background-color: black;
+    border-width: 01%;
+    border:black solid 2px;
+    border-radius: 6%;
+    width: 95%;
+    height: 30px;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+       
+}
+
+#filtro {
+	display: flex;
+	justify-content:center;
+	flex-wrap:nowrap;
+	width:100%;
+	background-color:white;
+	border:solid;
+	border-color:white white black white;
+	border-bottom-width:3px;
+	margin-left:-0.5%;
+}
+
+#tudo2 {
+	font-family:courier new;
+	margin:10px 5%;
+	display:flex;
+	flex-direction:row;
+	width:92%;
+	justify-content:space-around;
+	height:45%;
+	background-color:white;
+        
+}
+
+#tdtitle {
+	display: flex;
+	justify-content:center;
+	font-family:courier new;
+	font-size:18px;
+	margin-left:-66%;
+	margin-top:1.2%;
+}
+
+#desc {
+	display:flex;
+	flex-direction:column;
+	justify-content:flex-end;
+	width:60%;
+	height:45%;
+        margin-top: 12%;
+	margin-left: -7%;
+}
+
+#foto {
+    margin-left: 8%;
+}
+
+
+#botom {
+	display:flex;
+	flex-direction:row;
+	width:15%;
+	justify-content:space-around;
+        margin-left: -6%;
+}
+	
+.bottom2 {
+    color: white;
+    text-decoration: none;
+    border:black solid 2px;
+    background-color: black;
+    border-radius: 100px;
+    border-width: 15px;	
+}
+
+cadastro {
+    display:flex;
+    width:50%;
+    flex-direction:column;
+    margin-top:10%;
+    margin-left:20%;
+    margin:0% 10%;
+    font-family:courier new;
+}
+
+
+#escritacompra2 {
+	border: solid;
+	border-color: white;
+	width: 22%;
+	height: 196px;
+	margin-left: 39%;
+	margin-top: -210px;
+	background-color: white;
+}
+
+.botc {
+    font-family: courier new;
+    background-color: black;
+    border-width: 01%;
+    border:grey solid 2px;
+    border-radius: 6%;
+    width: 10%;
+    height: 45px;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+       
+}
+
+.botadm {
+    font-family: courier new;
+    background-color: black;
+    border-width: 01%;
+    border:black solid 2px;
+    border-radius: 6%;
+    width: 10%;
+    height: 50px;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+       
+}
+
+#pesquisa {
+    margin: auto 0;
+    display: flex;
+    align-items: center;
+}
+
+#lupa{
+    border: none;
+    background-color: transparent;
+}
+
+#pesq {
+    height: 30px;
+}
+
+.letrasdesc {
+    color: black;
+}
